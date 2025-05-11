@@ -1,0 +1,10 @@
+/* App.css - Main application styles */
+
+/* You can add any global styles specific to your app here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Any additional app-specific styles can be added here */
